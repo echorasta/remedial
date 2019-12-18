@@ -1,0 +1,92 @@
+.header {
+    background: rgb(46, 212, 31);
+    width: 1349px;
+    height: 166px;
+    border : rgb(139, 0, 139) solid 1px;
+}
+
+.number1 {
+    margin-top: 70px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(5, 245, 233);
+    float:left;
+    clear:both;
+}
+
+.number2 {
+    margin-top: -20px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(122, 120, 241);
+    float:left;
+    clear:both;
+}
+
+.number3 {
+    margin-top: -20px;
+    margin-bottom:10px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(255, 0, 139);
+    float:left;
+    clear:both;
+}
+
+.number4 {
+    margin-top: -20px;
+    margin-bottom: 70px;
+    margin-right:20px;
+    margin-left: 40px;
+    height:150px;
+    width: 150px;
+    border-radius: 10px;
+    background:rgb(139, 0, 139);
+    float:left;
+    clear:both;
+}
+
+.text1 {
+    margin-bottom:70px;
+    margin-right:20px;
+    margin-left:220px;
+    margin-top:-160px;
+    height:150px;
+    width: 750px;
+    background:rgba(122, 31, 31, 0);
+    float:left;
+    clear:both;
+}
+
+.text2 {
+    margin-bottom:70px;
+    margin-right:20px;
+    margin-left:220px;
+    margin-top: -220px;
+    height:150px;
+    width: 750px;
+    background:rgba(122, 31, 31, 0);
+    float:left;
+    clear:both;
+}
+
+.Judul5 {
+    margin-bottom: 70px;
+    margin-left:980px;
+    margin-top:-820px;
+    height: 755px;
+    width:335px;
+    background:aqua;
+    float:left;
+}
